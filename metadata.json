@@ -1,0 +1,6 @@
+{
+  "name": "ScholarMatch Lite",
+  "description": "A clean, utilitarian scholarship aggregator and eligibility matching web application prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
